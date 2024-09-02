@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 [👉🏻主页👈🏻](./)      [软件](./software)      [新闻](./news)
 
 ![我在各大社交平台的头像](https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/main/%E5%8D%97%E5%B1%B1%E5%B0%91%E5%B8%85Felix.jpg)

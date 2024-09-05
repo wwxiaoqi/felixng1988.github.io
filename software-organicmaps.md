@@ -1,6 +1,10 @@
-[主页](./)      [👉🏻软件👈🏻](./software)      [新闻](./news)
+[主页](./)      [👉🏻软件推荐👈🏻](./software)      [新闻](./news)
+
+[⬅️ 返回到“软件推荐”页面](./software)
 
 ## 软件推荐：[Organic Maps](https://organicmaps.app/zh-Hans/)
+
+[点击这里访问这个软件的官网：organicmaps.app](https://organicmaps.app/zh-Hans/)
 
 [Organic Maps](https://organicmaps.app/zh-Hans/) 是一款免费[开源](https://wuu.m.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6)的离线地图导航软件，适用于[安卓](https://wuu.m.wikipedia.org/wiki/Android)、[Linux](https://zh.m.wikipedia.org/zh-cn/Linux) 和 [iOS](https://zh.m.wikipedia.org/wiki/IOS)。它的最大优势是几乎所有功能都可以离线使用，只有在地图下载和地图编辑时需要联网。与其它主流导航软件不同，[Organic Maps](https://organicmaps.app/zh-Hans/) 非常注重用户的数据使用。在使用移动数据时，当您尝试下载地图或进行其他需要数据流量的操作时，才会弹出警告，避免消耗哪怕一个字节的流量。正因为如此，[Organic Maps](https://organicmaps.app/zh-Hans/) 做到了完全不收集用户的数据，确保您的隐私安全。
 

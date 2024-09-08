@@ -12,6 +12,8 @@
 
 > [电子邮件：felixng198@protonmail.com](mailto:felixng198@protonmail.com)
 
+---
+
 广告 [我想要移除广告](./remove_ads)
 ![GNU/Linux 清洁喷雾](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%B9%BF%E5%91%8A.jpg)
 GNU/Linux 清洁喷雾：专为解放你的电脑而生！强效配方，轻松清除电脑中的 Windows 痕迹，让你的电脑瞬间告别臃肿、卡顿和病毒的困扰。只需轻轻一喷，Windows 无影无踪，全面提升系统性能和安全性。畅享开源的自由、稳定与快速，再也不用担心恶意软件和频繁重启！这款革命性的喷雾，让你的电脑焕然一新，随时随地体验开源世界的无限可能！赶快[点击这里](./gnu_linux_wipeout_spray)购买吧！

@@ -9,6 +9,7 @@
 > 歌词：
 
 第一段：
+
 曾经我被困在囚牢中，  
 Once I was trapped in a prison,  
 微软的世界如同阴霾笼罩。  
@@ -23,6 +24,7 @@ Windows 的缺点，数不胜数。
 Windows' flaws, countless to breach.
 
 副歌：
+
 微软垃圾，束缚心灵，  
 Microsoft’s trash, binding the soul,  
 Linux 万岁，自由之光。  
@@ -33,6 +35,7 @@ Code open, sharing power,
 Dawn breaks, freedom’s glory showers.
 
 第二段：
+
 发现了开源的奇迹，  
 Found the miracle of open source,  
 Linux 带我走向新天地。  
@@ -47,6 +50,7 @@ A free spirit, without fear,
 Custom systems, just as you desire.
 
 副歌：
+
 微软垃圾，束缚心灵，  
 Microsoft’s trash, binding the soul,  
 Linux 万岁，自由之光。  
@@ -57,10 +61,12 @@ Code open, sharing power,
 Dawn breaks, freedom’s glory showers.
 
 间奏：
+
 (炫酷的电吉他独奏，伴随激昂的鼓点)  
 (Solo electric guitar, with thrilling beats) 
 
 第三段：
+
 Kubuntu 带来美丽桌面，  
 Kubuntu brings a beautiful desktop,  
 Fedora 展现科技前沿。  
@@ -75,6 +81,7 @@ The faith in open source, burning in the heart,
 Technology boundless, the future uncharted.
 
 副歌：
+
 微软垃圾，束缚心灵，  
 Microsoft’s trash, binding the soul,  
 Linux 万岁，自由之光。  
@@ -85,6 +92,7 @@ Code open, sharing power,
 Dawn breaks, freedom’s glory showers.
 
 尾声：
+
 自由的火炬，永不熄灭，  
 The torch of freedom, never to fade,  
 开源的精神，永远传承。  

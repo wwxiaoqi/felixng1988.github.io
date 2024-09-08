@@ -1,5 +1,4 @@
-[主页](./) | [👉🏻软件推荐👈🏻](./software) | [新闻](./news) | [注意事项](./notes) | [商店](./shop) | [歌曲](./songs) | [小视频](./videos)
-
+[⬅️ 返回到“主页”页面](./)
 [⬅️ 返回到“软件推荐”页面](./software)
 
 ## 操作系统推荐：[Linux Mint](https://linuxmint.com/)

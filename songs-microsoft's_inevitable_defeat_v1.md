@@ -6,8 +6,6 @@
 
 [点击这里下载 mp3 歌曲](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/songs/%E5%BE%AE%E8%BD%AF%E5%BF%85%E8%B4%A5%20(Version%201).mp3)
 
-> 歌词：
-
 第一段：
 
 曾经我被困在囚牢中，  
@@ -23,6 +21,7 @@ The dream of freedom, out of reach,
 Windows 的缺点，数不胜数。  
 Windows' flaws, countless to breach.
 
+
 副歌：
 
 微软垃圾，束缚心灵，  
@@ -33,6 +32,7 @@ Long live Linux, the light of freedom.
 Code open, sharing power,  
 黑暗破晓，自由辉煌。  
 Dawn breaks, freedom’s glory showers.
+
 
 第二段：
 
@@ -49,6 +49,7 @@ A free spirit, without fear,
 定制化系统，如你所愿。  
 Custom systems, just as you desire.
 
+
 副歌：
 
 微软垃圾，束缚心灵，  
@@ -60,10 +61,12 @@ Code open, sharing power,
 黑暗破晓，自由辉煌。  
 Dawn breaks, freedom’s glory showers.
 
+
 间奏：
 
 (炫酷的电吉他独奏，伴随激昂的鼓点)  
 (Solo electric guitar, with thrilling beats) 
+
 
 第三段：
 
@@ -80,6 +83,7 @@ The faith in open source, burning in the heart,
 技术无限，未来无边。  
 Technology boundless, the future uncharted.
 
+
 副歌：
 
 微软垃圾，束缚心灵，  
@@ -90,6 +94,7 @@ Long live Linux, the light of freedom.
 Code open, sharing power,  
 黑暗破晓，自由辉煌。  
 Dawn breaks, freedom’s glory showers.
+
 
 尾声：
 

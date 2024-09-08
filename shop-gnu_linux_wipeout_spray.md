@@ -90,7 +90,7 @@ A: 如果你厌倦了 Windows 系统，想要体验自由的开源世界，为�
 
 别再犹豫，点下方的按钮，花费 0.01 元，购买属于你的 **GNU/Linux 清洁喷雾**，让 Windows 立刻消失，迎接全新的开源自由世界吧！（虚拟商品，无实际效果）
 
-[立即购买](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%B9%BF%E5%91%8A.jpg)
+[立即购买](./purchase)
 
 ---
 

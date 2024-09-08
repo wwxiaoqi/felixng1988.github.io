@@ -4,7 +4,9 @@
 
 ## 歌曲：微软必败 (Version 1)
 
-[点击这里下载 mp3 歌曲](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/songs/%E5%BE%AE%E8%BD%AF%E5%BF%85%E8%B4%A5%20(Version%201).mp3)
+![反微软](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%8F%8D%E5%BE%AE%E8%BD%AF.jpg)
+
+[点击这里下载 mp3 歌曲文件](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/songs/%E5%BE%AE%E8%BD%AF%E5%BF%85%E8%B4%A5%20(Version%201).mp3)
 
 ### 第一段：
 曾经我被困在囚牢中，  

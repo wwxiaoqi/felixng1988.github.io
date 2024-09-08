@@ -1,4 +1,4 @@
-[👉🏻主页👈🏻](./)      [软件推荐](./software)      [新闻](./news)      [注意事项](./notes)
+[👉🏻主页👈🏻](./) | [软件推荐](./software) | [新闻](./news) | [注意事项](./notes) | [商店](./shop) | [歌曲](./songs) | [小视频](./videos)
 
 ![我在各大社交平台的头像](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/main/%E5%8D%97%E5%B1%B1%E5%B0%91%E5%B8%85Felix.jpg)
 

@@ -1,4 +1,4 @@
-[👉🏻主页👈🏻](./) | [软件推荐](./software) | [新闻](./news) |
+[👉🏻主页👈🏻](./) | [软件推荐](./software) | [新闻](./news) | [教程](./tutorial) |
 [注意事项](./notes) | [商店](./shop) | [歌曲](./songs) | [小视频](./videos) |
 
 ![我在各大社交平台的头像](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/6537413e114d3f5d43b3dd8afed3d1a98459ae42639f98667a41511c52ef437b27955106849e8fcf508ed6db87777aa7?pictype=scale&from=30111&version=3.3.3.3&fname=%E5%8D%97%E5%B1%B1%E5%B0%91%E5%B8%85Felix.jpg&size=1024)

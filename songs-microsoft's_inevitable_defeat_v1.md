@@ -4,7 +4,7 @@
 
 ## 歌曲：微软必败 (Version 1)
 
-![反微软](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%8F%8D%E5%BE%AE%E8%BD%AF.jpg)
+![反微软](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/f059a65f0556fb3c743da0395adc4f3108be61f47e17e04db93c2ababa5bab4eae8d9dd752314097ec3b970b30b204db?pictype=scale&from=30111&version=3.3.3.3&fname=%E5%8F%8D%E5%BE%AE%E8%BD%AF.jpg&size=1024)
 
 [点击这里下载 mp3 歌曲文件](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/songs/%E5%BE%AE%E8%BD%AF%E5%BF%85%E8%B4%A5%20(Version%201).mp3)
 

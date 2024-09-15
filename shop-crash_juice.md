@@ -8,7 +8,7 @@
 
 ---
 
-![死机果汁](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%95%86%E5%BA%97%EF%BC%9A%E6%AD%BB%E6%9C%BA%E6%9E%9C%E6%B1%81.jpg)
+![死机果汁](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/99e5c59f541d047aa23a27116daf9de7795b6178d0d799f1d2024250c9522aecbdea107780dd9b17614b9132bec1e108?pictype=scale&from=30111&version=3.3.3.3&fname=2.%20%E6%AD%BB%E6%9C%BA%E6%9E%9C%E6%B1%81.jpg&size=1024)
 
 ---
 

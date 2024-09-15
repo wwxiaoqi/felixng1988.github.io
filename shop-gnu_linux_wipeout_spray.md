@@ -4,7 +4,7 @@
 
 ## 购买 GNU/Linux 清洁喷雾
 
-![GNU/Linux 清洁喷雾](https://mirror.ghproxy.com/https://raw.githubusercontent.com/felixng1988/felixng1988.github.io/images/%E5%B9%BF%E5%91%8A.jpg)
+![GNU/Linux 清洁喷雾](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/55096b7b93f7f69ada2e4f74441fd644986383e447094f6f8cf38f2f13bef29165f52d3015d6e73d0d660cff0feba2a5?pictype=scale&from=30111&version=3.3.3.3&fname=1.%20GNULinux%20%E6%B8%85%E6%B4%81%E5%96%B7%E9%9B%BE.jpg&size=1024)
 
 ### 价格：仅需 0.01 元！  
 ### 限时优惠，赶快抢购！（虚拟商品，仅供娱乐，非真实销售）

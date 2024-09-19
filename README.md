@@ -12,7 +12,7 @@
 - [Telegram：@felixng198](https://t.me/felixng198/)
 - [OpenStreetMap：南山少帅Felix198](https://www.openstreetmap.org/user/%E5%8D%97%E5%B1%B1%E5%B0%91%E5%B8%85Felix198)
 - [抖音：南山少帅Felix（felixng198）](https://www.iesdouyin.com/share/user/MS4wLjABAAAAGYZYHw_zsJ2o4ra7dZxw_U65xyI9l-Ftb9BqI4hYFFSIMM_oIDwm1DxyvmD42JYW)
-- [哔哩哔哩：南山少帅Felix](https://bilibili.com/space/678665731)
+- [哔哩哔哩：南山少帅Felix](https://m.bilibili.com/space/678665731)
 
 ---
 

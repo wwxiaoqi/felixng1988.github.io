@@ -6,9 +6,9 @@
 
 ### 🤡💥 限时特惠！只需 ￥0.74！一口下去，你将永远与 Windows 绝缘！💥🤡
 
----
-
 ![死机果汁](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/99e5c59f541d047aa23a27116daf9de7795b6178d0d799f1d2024250c9522aecbdea107780dd9b17614b9132bec1e108?pictype=scale&from=30111&version=3.3.3.3&fname=2.%20%E6%AD%BB%E6%9C%BA%E6%9E%9C%E6%B1%81.jpg&size=1024)
+
+[点击这里立即购买！](./purchase)
 
 ---
 
@@ -80,14 +80,6 @@ A: 哈哈哈！这个定价的原因可有意思了！0.74 元的价格在中文
 
 Q: 如果我后悔了怎么办？😱  
 A: 后悔也没用啦！😂 喝了这瓶果汁，Windows 彻底消失，你将再也无法安装 Windows，无论你如何尝试，Linux 将永远占据你的电脑！笑得前仰后合，享受无尽的 Linux 生活！
-
----
-
-### 立即购买！🛒
-
-别再犹豫啦！兄弟姐妹们，这瓶“死机果汁”就是你们的终极选择！😂 只需 ￥0.74，保证你一辈子再也无法安装 Windows，从此在 Linux 的世界里幸福快乐，笑得连肚子都疼！🤣💥
-
-[立即购买](./purchase)
 
 ---
 
